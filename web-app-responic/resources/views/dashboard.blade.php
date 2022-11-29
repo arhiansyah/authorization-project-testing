@@ -20,21 +20,7 @@
                 </x-breadcumb>
             </div>
             <div class="bg-white" style="border: solid 2px red;">
-                Test
-                <div class="container mx-auto">
-                    <div class="mb-4" style="border: 2px solid red">
-                        <div class="mb-4" style="border: 2px solid red">01</div>
-                        <div style="border: 2px solid red">02</div>
-                        <div style="border: 2px solid red">03</div>
-                    </div>
-                    <div class="flex flex-auto justify-evenly" style="border: 2px solid red">
-                        <div class="" style="border: 2px solid red">01</div>
-                        <div style="border: 2px solid red">02</div>
-                        <div style="border: 2px solid red">03</div>
-                    </div>
 
-                </div>
-                {{-- <livewire:index-posts> --}}
             </div>
         </div>
     </div>
