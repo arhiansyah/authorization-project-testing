@@ -33,6 +33,8 @@ Building Asset with npm
 
 Setting Env in project, and set your db then running command :
 ```bash
+  php artisan migrate --seed
+  or
   php artisan migrate:fresh --seed
 ```
 
